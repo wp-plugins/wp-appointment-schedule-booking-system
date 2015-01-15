@@ -8,7 +8,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-"Wordpress Appointment Schedule Booking System" provides an easy way to manage your appointment schedule booking and check availability in custom Calendar.
+Provides an easy way to manage your appointment schedule booking and check availability in custom Calendar.
 
 == Description ==
 
