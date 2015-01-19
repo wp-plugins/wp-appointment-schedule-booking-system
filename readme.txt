@@ -18,7 +18,7 @@ You can manage the bookings (availability) on an ourly/custom time basis. bookin
 calendar in frontend shortcode will be automatically copied. you can add/edit service/venue/timeslot or any schedule or delete bookings from admin to manage the full system.
 
 > **Get more features for a small fee**
-> [Wordpress Appointment Schedule Booking System Pro](http://codecanyon.net/user/wpproducts/portfolio?WT.ac=featured_author&WT.z_author=wpproducts) also comes with a premium paid version. Upgrade to [Wordpress Appointment Schedule Booking System Pro](http://codecanyon.net/user/wpproducts/portfolio?WT.ac=featured_author&WT.z_author=wpproducts) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Free Technical support and much more. [Checkout all the awesome pro features](http://codecanyon.net/user/wpproducts/portfolio?WT.ac=featured_author&WT.z_author=wpproducts).
+> [Wordpress Appointment Schedule Booking System Pro](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) also comes with a premium paid version. Upgrade to [Wordpress Appointment Schedule Booking System Pro](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Free Technical support and much more. [Checkout all the awesome pro features](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro).
 >
 
 
@@ -36,6 +36,26 @@ Your Customers will be able to:
 = FEATURES: =
 - Make appointment schedule bookings in friendly booking interface - select the date(s) and fill form fields.
 - Prevent of double booking for already reserved schedule time (1 booking per 1 schedule or time slot for a venue).
+- Add/Edit/Manage Booking from Admin Interface.
+- Insert Booking Calendar into any Post/Page using ShortCode [appoint_sccalendar].
+- You can block specific dates.
+- Pretty modern administration interface.
+- Supports both am/pm and military time.
+- Allows defining the working days, the exact time slots available
+- calendar and date picker are automatically configured according to admin working day and time slot settings.
+- Allows defining the product name at PayPal, the currency, tax,administrator email and the PayPal language.
+- Variety of services to choose from - wordpress appointment schedule booking software lets you set many services options: An appointment at your office or at your client's location or anywhere.
+- Colors customization - wordpress appointment schedul booking plugin lets you brand the appointment color so it would perfectly fit your website's colors and theme.
+- Unlimited number of appointments, unlimited number of clients.
+- venue, service, schedule, and timeslots are unlimited and fully dynamic. so you can set according to your need.
+- Calendar management - Manage your availability and mark times when you are not available on your appointment calendar.
+- Block busy time and holidays.
+- Set the length of time slot for each service.
+- Multiple-currency support.
+- Show appointments / schedules in the daily, weekly or monthly view.
+- Easily add, edit or delete appointment in WP Admin.
+- automatically page created and shortcode copied to page to generate calendar and payment process related pages. so its really easy to install and configure.
+- and much more coming soon...
 
 = Additional Features Available with the Pro (paid) version only =
 - Free Installation Service
@@ -49,7 +69,7 @@ Your Customers will be able to:
 - Appointment Scheduling Calendar month, week and day view
 - Full Technical Support From Us
 
-[Upgrade to the Pro version](http://codecanyon.net/user/wpproducts/portfolio?WT.ac=featured_author&WT.z_author=wpproducts) for all the pro features, and read more in [depth details](http://codecanyon.net/user/wpproducts/portfolio?WT.ac=featured_author&WT.z_author=wpproducts) about the plugin.
+[Upgrade to the Pro version](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) for all the pro features, and read more in [depth details](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) about the plugin.
 
 
 = Manage your Bookings in Admin Panel: =
@@ -60,12 +80,15 @@ Your Customers will be able to:
 - Administrator can edit or Delete specific bookings.
 - View the bookings in booking calendar of any month of any year.
 
-= You can use this booking calendar as: =
+= Desired Businesses / You can use this booking calendar as: =
+- Patient scheduling (Doctor, Clinic, Medical).
 - Booking calendar / availability calendar for a doctor, lawyer, therapist, gym instractor.
 - Booking calendar / availability calendar for a phycologist.
 - Booking calendar / availability calendar for a consultant.
 - Booking calendar / availability calendar for counseling.
 - A shift calendar.
+- Meeting scheduling (Coaching, Phone advice, Consulting, Law Firms, Education).
+- Client scheduling (Beauty salon, Spa management, Hairdresser, Massage therapist, Acupuncture, Photographers,Personal Trainers, Wellness, Training Institutes, Sightseeing Services, Home Repair, Auto Repair, Tuition, Financial Services)
 - Whatever you like!
 	 
 This plugin is compatible and tested up to Wordpress Version: 4.1 
