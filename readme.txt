@@ -36,7 +36,7 @@ Your Customers will be able to:
 = FEATURES: =
 - Make appointment schedule bookings in friendly booking interface - select the date(s) and fill form fields.
 - Prevent of double booking for already reserved schedule time (1 booking per 1 schedule or time slot for a venue).
-- RESPONSIVE booking and availability Calendar to fit any device.
+- RESPONSIVE booking and availability Calendar to fit any device
 - Add/Edit/Manage Booking from Admin Interface.
 - Insert Booking Calendar into any Post/Page using ShortCode [appoint_sccalendar].
 - You can block specific dates.
