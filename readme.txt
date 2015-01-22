@@ -41,7 +41,7 @@ Your Customers will be able to:
 - Insert Booking Calendar into any Post/Page using ShortCode [appoint_sccalendar].
 - You can block specific dates.
 - Pretty modern administration interface.
-- Supports both am/pm and military time.
+- Supports both am/pm time.
 - Allows defining the working days, the exact time slots available
 - calendar and date picker are automatically configured according to admin working day and time slot settings.
 - Allows defining the product name at PayPal, the currency, tax,administrator email and the PayPal language.
