@@ -47,7 +47,7 @@ where scd.id=".$schedule;
 	</script>
   <style type='text/css'>
 	 #calendar {
-			width: 800px;
+			max-width: 800px;
 			margin-top: 10px;
 		}
 		.event {

@@ -48,7 +48,7 @@
 		</script>
 		<style type="text/css">
 				#calendar {
-            width: 800px;
+            max-width: 800px;
 					}
 					.event {
 					}
