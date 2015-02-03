@@ -18,7 +18,7 @@ You can manage the bookings (availability) on an ourly/custom time basis. bookin
 calendar in frontend shortcode will be automatically copied. you can add/edit service/venue/timeslot or any schedule or delete bookings from admin to manage the full system.
 
 > **Get more features for a small fee**
-> [Wordpress Appointment Schedule Booking System Pro](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) also comes with a premium paid version. Upgrade to [Wordpress Appointment Schedule Booking System Pro](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Free Technical support and much more. [Checkout all the awesome pro features](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro).
+> [Wordpress Appointment Schedule Booking System Pro](http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts) also comes with a premium paid version. Upgrade to [Wordpress Appointment Schedule Booking System Pro](http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Free Technical support and much more. [Checkout all the awesome pro features](http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts).
 >
 
 
@@ -70,7 +70,7 @@ Your Customers will be able to:
 - Appointment Scheduling Calendar month, week and day view
 - Full Technical Support From Us
 
-[Upgrade to the Pro version](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) for all the pro features, and read more in [depth details](http://wordpress-expert.codeinterest.com/wordpress/wordpress-appointment-schedule-booking-system-pro) about the plugin.
+[Upgrade to the Pro version](http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts) for all the pro features, and read more in [depth details](http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts) about the plugin.
 
 
 = Manage your Bookings in Admin Panel: =
