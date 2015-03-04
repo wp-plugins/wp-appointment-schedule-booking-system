@@ -18,7 +18,7 @@
             <div id="namediv" class="stuffbox" style="width:60%;min-height:450px;">
               <h3 class="top_bar">More Features Available in Our Pro Version:-</h3>
               <div style="padding-top:15px;margin-left:20px;">
-                <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com" style="width:100px;height: 20px;background-color: green;color:white;" >WP Appointment Scheduling Manager Pro</a>
+                <a class="btnprover" target="_blank" href="http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts" style="width:100px;height: 20px;background-color: green;color:white;" >WP Appointment Scheduling Manager Pro</a>
               </div>  
                <form id="frmCssFix" action="" method="post" style="width:100%">
                  <div style="margin: 20px;">
@@ -36,7 +36,7 @@
                     </ol>
                    <div style="padding-top:15px;">
                      <b>Please Have Our Professional Version to Increase your Business </b><br/><br/><br/>
-                     <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com" style="width:100px;height: 20px;background-color: green;color:white;" >WP Appointment Scheduling Manager Pro</a>
+                     <a class="btnprover" target="_blank" href="http://codecanyon.net/item/wordpress-appointment-schedule-booking-system-pro/10275446?ref=wpproducts" style="width:100px;height: 20px;background-color: green;color:white;" >WP Appointment Scheduling Manager Pro</a>
                     </div>
                    <div style="float:right;padding-top:35px; font-size: 11px;">Developed by: <a target="_blank" href="http://www.solvercircle.com">SolverCircle Ltd</a></div>
                  </div> 
