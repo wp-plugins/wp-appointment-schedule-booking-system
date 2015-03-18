@@ -92,7 +92,6 @@ Your Customers will be able to:
 - Client scheduling (Beauty salon, Spa management, Hairdresser, Massage therapist, Acupuncture, Photographers,Personal Trainers, Wellness, Training Institutes, Sightseeing Services, Home Repair, Auto Repair, Tuition, Financial Services)
 - Whatever you like!
 	 
-This plugin is compatible and tested up to Wordpress Version: 4.1 
 
 <p>Some of our popular extensions include the followings:</p> 
 <p><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/icontact-wordpress">iContact Wordpress Plugin</a></p>
